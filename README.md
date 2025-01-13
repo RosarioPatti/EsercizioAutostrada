@@ -1,3 +1,3 @@
 # EsercizioAutostrada
 Progetto in Java utilizzando l'ereditarietà
-# <a href="https://www.w3schools.com">w3schools</a>
+This site was built using [GitHub Pages](https://pages.github.com/).
